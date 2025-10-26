@@ -41,3 +41,4 @@ When launching your instance via [Autoscout](https://autoscout.blockscout.com/),
 ## 🧱 Using the Blockscout API
 
 Blockscout exposes a familiar **Etherscan-style REST API**, available at:
+https://grenchain-ethglobal.cloud.blockscout.com/api
