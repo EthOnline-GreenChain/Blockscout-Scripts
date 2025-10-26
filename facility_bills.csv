@@ -1,0 +1,11 @@
+facility_name,date,kWh,fuel_type,fuel_amount
+Hotel Lisboa,2025-10-01,12000,Diesel,350
+Hotel Lisboa,2025-10-15,11850,Diesel,340
+Sunrise Mall,2025-10-03,15200,Natural Gas,500
+Sunrise Mall,2025-10-17,14900,Natural Gas,480
+Green Tower,2025-10-05,9700,Petrol,220
+Green Tower,2025-10-20,9900,Petrol,230
+Oceanview Resort,2025-10-02,18500,Diesel,600
+Oceanview Resort,2025-10-16,18250,Diesel,590
+TechHub Office,2025-10-04,13100,Natural Gas,410
+TechHub Office,2025-10-18,12900,Natural Gas,405
