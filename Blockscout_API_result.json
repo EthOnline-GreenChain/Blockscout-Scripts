@@ -1,0 +1,56 @@
+{
+    "message": "OK",
+    "result": {
+        "blockNumber": "9489184",
+        "confirmations": "4659",
+        "from": "0x1e31bebd0970b143279cb873c6005791f0802bdf",
+        "gasLimit": "200000",
+        "gasPrice": "1000009",
+        "gasUsed": "76461",
+        "hash": "0xd97e6cdbbc7bef4fc3193ad849b103dd23313b3bcf8b55d241c06748e262d50a",
+        "input": "0xe3ee160e0000000000000000000000008009fef9ba8bd6f87a09c4dccc85001e7875b0d7000000000000000000000000fad8f1035ed8d097d354bb29c9e4714b5fc4566d0000000000000000000000000000000000000000000000000000000000004e2000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000124f540870000000000000000000000000000000000000000000000000000000000000aa0000000000000000000000000000000000000000000000000000000000000001ba06ca7dde1d5d8d34f2ae9ce8b1d78a2ce56be1eb7bc4fa3aa4d3618e00f407342bc4c51c672a6e72295fc4462b55bd4969df0af781b7c0b8ec8c90f3b8b39b5",
+        "logs": [
+            {
+                "address": "0xcac524bca292aaade2df8a05cc58f0a65b1b3bb9",
+                "data": "0x",
+                "index": "49",
+                "topics": [
+                    "0x98de503528ee59b575ef0c0a2576a82497bfc029a5685b209e9ec333479b10a5",
+                    "0x0000000000000000000000008009fef9ba8bd6f87a09c4dccc85001e7875b0d7",
+                    "0x0000000000000000000000000000000000000000000000000000000000000aa0",
+                    null
+                ]
+            },
+            {
+                "address": "0xcac524bca292aaade2df8a05cc58f0a65b1b3bb9",
+                "data": "0x0000000000000000000000000000000000000000000000000000000000004e20",
+                "index": "50",
+                "topics": [
+                    "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+                    "0x0000000000000000000000008009fef9ba8bd6f87a09c4dccc85001e7875b0d7",
+                    "0x000000000000000000000000fad8f1035ed8d097d354bb29c9e4714b5fc4566d",
+                    null
+                ]
+            }
+        ],
+        "next_page_params": null,
+        "revertReason": "",
+        "success": true,
+        "timeStamp": "1761419952",
+        "to": "0xcac524bca292aaade2df8a05cc58f0a65b1b3bb9",
+        "value": "0",
+        "readable_time": "2025-10-25 19:19:12 UTC",
+        "fromChainId": "11155111",
+        "toChainId": "11155111",
+        "tokenTransfers": [
+            {
+                "from": "0x8009fef9ba8bd6f87a09c4dccc85001e7875b0d7",
+                "fromChainId": "11155111",
+                "to": "0xfad8f1035ed8d097d354bb29c9e4714b5fc4566d",
+                "toChainId": "1101",
+                "amount": 20000
+            }
+        ]
+    },
+    "status": "1"
+}
